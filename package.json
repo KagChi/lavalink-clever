@@ -1,0 +1,14 @@
+{
+  "name": "lavalink-clever",
+  "version": "1.0.0",
+  "description": "Trying to run lavalink on clever cloud",
+  "main": "index.js",
+  "scripts": {
+    "start": "bash start.sh"
+  },
+  "keywords": [
+    "lavalink"
+  ],
+  "author": "KagChi",
+  "license": "GPL-3.0"
+}
